@@ -13,7 +13,13 @@ xp: 100
 skills: 1
 ```
 
-This is an example exercise.
+**---R'da Aritmetik İşlemleri---**
+Toplama: +
+Çıkarma: -
+Çarpma: *
+Bölme: /
+Üs: ^
+Kalan: %%
 
 `@instructions`
 
@@ -28,7 +34,17 @@ This is an example exercise.
 
 `@sample_code`
 ```{r}
+# Toplama: 5 ile 3'ü topla
 
+# Çıkarma: 8'den 6'yı çıkar
+
+# Çarpma: 3 ile 2'yi çarp
+
+# Bölme: 8'i 2'ye böl
+
+# Üssel: 2 üzeri 3
+
+# Kalan: 9'un 2 ile bölümünden kalan
 ```
 
 `@solution`
