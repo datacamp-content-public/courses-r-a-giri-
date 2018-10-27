@@ -13,7 +13,7 @@ xp: 100
 skills: 1
 ```
 
-**---R'da Aritmetik İşlemleri---**
+**R'da Aritmetik İşlemleri**
 Toplama: +
 Çıkarma: -
 Çarpma: *
