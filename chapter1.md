@@ -35,6 +35,7 @@ Kalan: %%
 `@sample_code`
 ```{r}
 # Toplama: 5 ile 3'ü topla
+5+3
 
 # Çıkarma: 8'den 6'yı çıkar
 
